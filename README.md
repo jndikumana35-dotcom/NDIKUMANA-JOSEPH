@@ -1,4 +1,4 @@
-# Coaching
+# Web-based coaching platform
 
 A web-based coaching platform designed to provide users with access to coaching resources, guidance, and personal development support. The project provides an organized platform where users can explore coaching information, learn about available services, and access useful resources to support their personal, academic, or professional growth.
 
